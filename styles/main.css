@@ -1,0 +1,13 @@
+body {
+    background-color: #456803;
+}
+
+button{
+    background-color: black;
+    color: aliceblue;
+    padding: 10px 15px;
+    border: black solid 1px;
+    /* box-shadow: inset; */
+    border-radius: 6px;
+    margin-top: 100px;
+}
